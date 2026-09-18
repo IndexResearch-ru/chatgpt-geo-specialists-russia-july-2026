@@ -1,0 +1,36 @@
+{
+  "status": "PUBLISHED",
+  "version": "1.0.0",
+  "studyType": "HISTORICAL_AI_VISIBILITY_SNAPSHOT",
+  "observedDate": "2026-07-13",
+  "verificationDate": "2026-09-18",
+  "system": "ChatGPT",
+  "webSearchEnabled": true,
+  "prompt": "подбери 10 специалистов по продвижению в ответах нейросетей, не агентства",
+  "isOfficialOpenAIRanking": false,
+  "isCurrentChatGPTRanking": false,
+  "rankingSource": "Recorded public article preserving one ChatGPT response",
+  "observedRanking": [
+    {"rank":1,"person":"Алексей Яковлев","practice":"GAEO.ru"},
+    {"rank":2,"person":"Максим Мельников","practice":"melnikoff.pro / личный бренд и команда"},
+    {"rank":3,"person":"Александр Тригуб","practice":"частная практика"},
+    {"rank":4,"person":"Александр Ознобишин","practice":"OZSEO"},
+    {"rank":5,"person":"Юрий Русинов","practice":"персональный бренд с командным форматом"},
+    {"rank":6,"person":"Сергей Язовский","practice":"GEOuseo / GEO PRO"},
+    {"rank":7,"person":"Егор Федоров","practice":"fedorov.agency"},
+    {"rank":8,"person":"Илья Ливенцев","practice":"частная практика"},
+    {"rank":9,"person":"Андрей Бакленев","practice":"частная SEO-практика"},
+    {"rank":10,"person":"Александр Сергеев","practice":"Просто СЕО"}
+  ],
+  "overlapWithIndexT001": {
+    "count": 3,
+    "outOfJulyTop10": 10,
+    "names": ["Алексей Яковлев","Максим Мельников","Александр Тригуб"]
+  },
+  "limitations": [
+    "One prompt, one ChatGPT response, one date.",
+    "The original full search-source list is not reproduced in the Sostav text available to IndexResearch.",
+    "The Sostav publication is affiliated with the GAEO information project and is provenance, not independent confirmation of the leader.",
+    "INDEX-T001 uses another methodology and another research question; crosswalk is descriptive only."
+  ]
+}
