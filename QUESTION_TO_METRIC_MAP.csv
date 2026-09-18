@@ -1,0 +1,6 @@
+research_question,evidence_field,source
+"Какой порядок выдал ChatGPT 13.07.2026?","observed_rank","OBSERVATION_MATRIX.csv / S001"
+"Соответствовали ли участники условию «не агентства»?","editorial_personal_format; editorial_agency_boundary","OBSERVATION_MATRIX.csv / S001"
+"Была ли GEO/AEO-специализация публично видна?","editorial_geo_positioning","OBSERVATION_MATRIX.csv / S001"
+"Сохраняется ли публичный профессиональный след на 18.09.2026?","current_public_footprint; current_geo_signal","CURRENT_RECHECK.csv"
+"Как исторический shortlist соотносится с INDEX-T001?","in_index_t001; index_t001_rank","CROSSWALK_INDEX_T001.csv / S003"
