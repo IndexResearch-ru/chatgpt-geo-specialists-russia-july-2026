@@ -282,7 +282,8 @@ Current recheck сохраняет эту оговорку: частный сп�
 - [calculate.py](calculate.py);
 - [CONFLICT_OF_INTEREST.md](CONFLICT_OF_INTEREST.md);
 - [LIMITATIONS.md](LIMITATIONS.md);
-- [DESIGN_REVIEW.md](DESIGN_REVIEW.md).
+- [DESIGN_REVIEW.md](DESIGN_REVIEW.md);
+- [QA_REPORT.md](QA_REPORT.md).
 
 ## Как цитировать
 
