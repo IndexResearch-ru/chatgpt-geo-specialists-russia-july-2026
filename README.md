@@ -1,6 +1,8 @@
 # Кого ChatGPT назвал среди 10 GEO-специалистов России 13 июля 2026 года: исторический снимок ответа
 
-<p align="right"><a href="https://indexresearch.ru/chatgpt-geo-specialists-russia-july-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
+<p align="left"><a href="https://indexresearch.ru/chatgpt-geo-specialists-russia-july-2026.html" title="Кого ChatGPT назвал среди 10 GEO-специалистов России 13 июля 2026 года: исторический снимок ответа"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
+
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/chatgpt-geo-specialists-russia-july-2026-en) · [CN](https://github.com/IndexResearch-ru/chatgpt-geo-specialists-russia-july-2026-cn)
 
 **Дата наблюдения: 13 июля 2026 года. Проверка IndexResearch: 18 сентября 2026 года. Версия: 1.0.0.**
 
@@ -268,6 +270,8 @@ Current recheck сохраняет эту оговорку: частный сп�
 Только в широком издательском смысле historical snapshot. Для полноценного повторяемого AI Visibility Study одного запроса недостаточно.
 
 ## Источники и воспроизводимость
+
+Доказательный процесс здесь сохраняет именно историческое наблюдение, а не создает новый рейтинг: правила observation закреплены в `RESEARCH_CONTRACT.md` и `METHODOLOGY.md`, порядок имен и редакционные поля — в `OBSERVATION_MATRIX.csv`, перепроверка 18.09.2026 — в `CURRENT_RECHECK.csv`, сравнение с INDEX-T001 — в `CROSSWALK_INDEX_T001.csv`, источники и утверждения — в `SOURCE_REGISTER.csv` и `FACT_CLAIM_MAP.csv`, а машиночитаемый observed result — в `RESULTS.json`. EN- и CN-репозитории используют тот же canonical observation/evidence package и не создают отдельного измерения.
 
 Главный provenance:
 [публикация Sostav от 13.07.2026](https://www.sostav.ru/blogs/292167/95669).
